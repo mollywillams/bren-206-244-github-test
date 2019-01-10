@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Type your name (or anything else) HERE: Molly Williams
+Type your name (or anything else) HERE: Molly "Gary's Mom" Williams
 
 Here's some code (change the variable names and values):
 ```{r}
