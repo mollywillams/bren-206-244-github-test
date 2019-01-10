@@ -17,7 +17,7 @@ dachshunds <- 8
 
 dalmations <- 12
 
-cuties <- dachshunds/dalmations
+cuties <- dachshunds+dalmations
 
 ```
 
